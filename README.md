@@ -1,4 +1,4 @@
-# Kauustubh's Projects
+# Kaustubh's Projects
 
 This Repository shows my personal coding projects, demonstrating my skills and practical application of programming concepts.
 About This Repository:
