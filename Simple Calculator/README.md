@@ -7,14 +7,14 @@ What I have learned:
 
 Building this calculator was a fantastic practical exercise that helped me grasp **core concepts in GUI development** and **Python programming**.
 
-GUI Fundamentals: I learned how to construct a **user-friendly visual interface** from scratch.
+1. GUI Fundamentals: I learned how to construct a **user-friendly visual interface** from scratch.
 
-Layout Management: Learning Tkinter's **grid system** was key to making the buttons and display adjust nicely when you resize the window.
+2. Layout Management: Learning Tkinter's **grid system** was key to making the buttons and display adjust nicely when you resize the window.
 
-Event Handling: Connecting **button clicks** to specific **actions**, like **adding** a number to the display or **calculating a result**, was a major focus.
+3. Event Handling: Connecting **button clicks** to specific **actions**, like **adding** a number to the display or **calculating a result**, was a major focus.
 
-User Interaction: Handling **diverse user inputs** (numbers, operators) and ensuring the display always shows the correct output.
+4. User Interaction: Handling **diverse user inputs** (numbers, operators) and ensuring the display always shows the correct output.
 
-Basic Error Handling: Including safeguards to gracefully **manage unexpected inputs** and **prevent crashes**.
+5. Basic Error Handling: Including safeguards to gracefully **manage unexpected inputs** and **prevent crashes**.
 
-This project is a clear example of applying fundamental programming logic to create a functional and interactive tool. **Give it a try!**
+6. This project is a clear example of applying fundamental programming logic to create a functional and interactive tool. **Give it a try!**
