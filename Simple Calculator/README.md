@@ -1,8 +1,7 @@
 The Python GUI Calculator
 
 This project is a simple, interactive calculator application, brought to life using **Python** and its **built-in Tkinter library**. 
-It's designed to handle all your **basic arithmetic** needs—**addition**, **subtraction**, **multiplication**, and **division**—all 
-within a straightforward **graphical interface**.
+It's designed to handle all your **basic arithmetic** needs—**addition**, **subtraction**, **multiplication**, and **division**—all within a straightforward **graphical interface**.
 
 What I have learned:
 Building this calculator was a fantastic practical exercise that helped me grasp **core concepts in GUI development** and **Python programming**:
