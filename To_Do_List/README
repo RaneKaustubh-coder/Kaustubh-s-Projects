@@ -1,0 +1,28 @@
+Project Title: Command-Line To-Do List Application
+
+Description:
+This is a robust command-line interface (CLI) application designed for efficient task management. Developed using Python for the application logic and MySQL as the backend database, it provides users with a comprehensive set of functionalities to manage their daily tasks.
+
+Key Features:
+1. Create (Add Tasks): Users can easily add new tasks to their To-Do list, providing a description for each.
+2. Read (View Tasks): Displays all existing tasks, showing their unique ID, description, and current completion status.
+3. Update (Mark Tasks): Allows users to update the status of any task (mark as completed or incomplete) by referencing its unique ID.
+4. Delete (Remove Tasks): Provides the ability to permanently remove tasks from the list using their unique ID.
+
+Technologies Used:
+1. Python: Core programming language for application logic and user interaction.
+2. MySQL: Relational database management system used for persistent storage of tasks. 
+3. mysql.connector: Python library facilitating seamless connection and interaction with the MySQL database.
+
+What this project demonstrates:
+1. Practical experience with database integration in Python applications.
+2. Implementation of full CRUD (Create, Read, Update, Delete) operations.
+3. Skills in SQL query construction and execution.
+4. Development of an interactive Command-Line Interface (CLI).
+5. Robust error handling for database operations and user input.
+
+How to Use This Description:
+For GitHub README.md: Copy and paste this description. You can then add sections below it for "Setup Instructions" (how to install MySQL, create DB/table, pip install mysql-connector-python, how to run the script), "Usage," and "Future Enhancements."
+For Resume: Condense it further for your resume's project section. For example:
+"Command-Line To-Do List Application | Python, MySQL, mysql.connector
+Developed a CLI application enabling full CRUD operations (add, view, update, delete) for task management, demonstrating practical database integration and SQL skills."
